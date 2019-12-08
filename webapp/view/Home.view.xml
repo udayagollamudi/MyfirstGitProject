@@ -5,7 +5,6 @@
 			<Page title="{i18n>title}">
 				<content>
 					<Text text="Hello World"/>
-					<Input type="Password" maxLength='20' fieldWidth="50%"/>
 					<Button text="Submit"/>
 				</content>
 			</Page>
